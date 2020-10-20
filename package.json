@@ -31,12 +31,12 @@
         "extend": "^3.0.2",
         "jquery": "^3.5.1",
         "jquery.easing": "^1.4.1",
-        "lodash": "^4.17.14",
+        "lodash": "^4.17.20",
         "popper.js": "^1.15.0",
         "simple-line-icons": "2.4.1"
     },
     "devDependencies": {
-        "browser-sync": "^2.26.7",
+        "browser-sync": "^2.26.13",
         "gulp": "^4.0.2",
         "gulp-autoprefixer": "6.0.0",
         "gulp-clean-css": "3.10.0",
